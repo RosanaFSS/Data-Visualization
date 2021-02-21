@@ -14,3 +14,4 @@ Practicing Data Visualization for Udacity Nanodegree Program
               Development of a complete dashboad adding color, annotations, interactivity and making it production ready
               Tableau & Alteryx
               Superstore sample dataset
+              https://public.tableau.com/profile/rosana7921#!/vizhome/SalesRockPerformance/Performance
