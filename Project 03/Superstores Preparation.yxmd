@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="126" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>superstore-dataset-dashboarddesign.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Order Date" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Order ID" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Product Name" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Category" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="City" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Country" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Customer Name" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Discount" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Postal Code" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Manufacturer" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Profit" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Profit Ratio" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Quantity" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Region" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Sales" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Segment" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Ship Date" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Ship Mode" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="State" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+            <Field name="Sub-Category" size="254" source="File: C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\superstore-dataset-dashboarddesign.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="294" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="ReplaceChar([Profit], '$', '')" field="Profit" size="254" type="V_String" />
+            <FormulaField expression="ReplaceChar([Sales], '$', '')" field="Sales" size="254" type="V_String" />
+            <FormulaField expression="ReplaceChar([Profit Ratio], 'Null', '0')" field="Profit Ratio" size="254" type="V_String" />
+            <FormulaField expression="ReplaceChar([Quantity],'Null','0')" field="Quantity" size="254" type="V_String" />
+            <FormulaField expression="ReplaceChar([Profit Ratio], '%', '')" field="Profit Ratio" size="254" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Profit = ReplaceChar([Profit], '$', '')
+Sales = ReplaceChar([Sales], '$', '')
+Pr...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="438" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="570" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\Rosana\OneDrive\Documentos\Udacity\__ Data Visualization Nanodegree Program\Cap 03, Dashboard Design\Project 2, Design a Data Dashboard Midterm Project\Superstore dataset__.xlsx|||Sheet1</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Superstore dataset__.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Superstores Preparation</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
