@@ -15,14 +15,12 @@ Superstore sample dataset
 ### Project 3, _Design a Data Dashboard Final Project_
 Development of a complete dashboard adding color, annotations, interactivity and making it production ready
 Tableau & Alteryx
-Superstore sample dataset
-It is available at https://public.tableau.com/profile/rosanafss#!/vizhome/SalesRockPerformance/Performance
+Superstore sample dataset, available at https://public.tableau.com/profile/rosanafss#!/vizhome/SalesRockPerformance/Performance
               
 
 ### Project 4, _Build a Data Story Midterm Project_   
 Structuring a data story, practice defining problem statement and analyses plan to do
-Movies Metadata IMdB
-Available at https://public.tableau.com/profile/rosanafss#!/vizhome/Whatdroverevenuefortop3genresinaveragepopularity/RevenueTop3-Popularity
+Movies Metadata IMdB, available at https://public.tableau.com/profile/rosanafss#!/vizhome/Whatdroverevenuefortop3genresinaveragepopularity/RevenueTop3-Popularity
 
 
               
